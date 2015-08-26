@@ -1,8 +1,8 @@
-<span class="bigTitle">JavaScript For Cats</span>
-## An introduction for new programmers <span class="right">![cat](images/substack-cats.png)</span>
-### *So easy your human companion could do it too!*
+<span class="bigTitle">Kediler İçin JavaScript</span>
+## Yeni programcılar için bir giriş <span class="right">![cat](images/substack-cats.png)</span>
+### *Çok kolay, insan arkadaşlarınız da yapabiliyor!*
 
-JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things. Just the same as one controls humans with hisses and meows, one controls computers with statements written in a programming language. All web browsers understand JavaScript and you can take advantage of that to make web pages do crazy things!
+JavaScript bir programlama dili, yani, bir başka deyişle bilgisayara bir şeyler yaptırmaya yarayan araç. Tıpkı insanları miyavlama ve tıslamalarla kontrol etmek gibi, programlama dilinde yazılmış ifadelerle bilgisayarı kontrol eder. Bütün tarayıcılar JavaScript anlar ve bu da size web sayfalarında çılgınca şeyler yapma fırsatı verir!
 
 JavaScript started as a way to make web pages more interactive. Nowadays JavaScript runs in more places than just web browsers &mdash; it runs on web servers, phones and even robots! This page will teach you some JavaScript basics so that you can get up and running in no time*.
 
