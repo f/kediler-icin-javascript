@@ -25,7 +25,7 @@
   "homepage": "https://github.com/maxogden/javascript-for-cats",
   "dependencies": {
     "marked": "^0.3.2",
-    "mustache": "^1.0.0"
+    "mustache": "^4.0.1"
   },
   "devDependencies": {
     "gh-pages-deploy": "^0.1.1"
